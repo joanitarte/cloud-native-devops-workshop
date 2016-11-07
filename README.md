@@ -1,4 +1,4 @@
-![](common/images/customer.logo.png)
+![](common/images/generic-logo-md.png)
 ---
 # ORACLE Cloud-Native DevOps workshop #
 
